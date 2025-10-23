@@ -1,0 +1,9 @@
+{
+	"name": "factory-azureproject-dlr95",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ded1bb0c-dc25-4cd9-bc80-72de99a4678b",
+		"tenantId": "630cd67e-b19a-4ef5-9376-aa77c9db6ce3"
+	}
+}
